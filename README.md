@@ -1,4 +1,3 @@
-# St.-johns-Map-Extraction---Properties-and-Roads
 Project: UrbanGIS: St. John’s Spatial Data Project
 
 This project focuses on extracting and analyzing geospatial data for St. John’s, Newfoundland and Labrador (NL), Canada. Using QGIS and OpenStreetMap (OSM), I extracted roads, buildings, and property features for a defined area of interest.
